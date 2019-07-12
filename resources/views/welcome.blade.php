@@ -252,7 +252,7 @@
 							<img src="lattes-template/images/demo/plane.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>GTC</h2>
-								<p>PIKE, MUHAMMET</p>
+								<p>Pike, Muhammet</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-8">View more</a>
 							</figcaption>
 						</figure>
@@ -266,7 +266,7 @@
 							<img src="lattes-template/images/demo/flight.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>AMADEUS</h2>
-								<p>PIKE,MUHAMMET,MUSTAFA,ÖMER,LEYLA,OĞUZHAN</p>
+								<p>Pike,Muhammet,Mustafa,Ömer,Leyla,Oğuzhan</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-9">View more</a>
 							</figcaption>
 						</figure>
@@ -604,7 +604,7 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h4 class="modal-title" id="Modal-label-6">Sebepler</h4>
+                            <h4 class="modal-title" id="Modal-label-6"><strong>Neden Kurutravel</strong></h4>
                         </div>
                         <div class="modal-body">
                             <img src="lattes-template/images/demo/question1.jpg" alt="img06" class="img-responsive" />
@@ -631,10 +631,10 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h4 class="modal-title" id="Modal-label-7">Sebepler</h4>
+                            <h4 class="modal-title" id="Modal-label-7"><strong>E-ticaret</strong></h4>
                         </div>
                         <div class="modal-body">
-                            <img src="lattes-template/images/demo/code.jpg" alt="img06" class="img-responsive" />
+                            <img src="lattes-template/images/demo/e-ticaret.jpeg" alt="img06" class="img-responsive" />
                             <div class="modal-works"></div>
                             <p>Şirketimiz tarafından en uygun standartlarda bir e-ticaret sitesi</p>
                         </div>
@@ -650,10 +650,10 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h4 class="modal-title" id="Modal-label-8">Sebepler</h4>
+                            <h4 class="modal-title" id="Modal-label-8"><strong>Gtc</strong></h4>
                         </div>
                         <div class="modal-body">
-                            <img src="lattes-template/images/demo/code.jpg" alt="img06" class="img-responsive" />
+                            <img src="lattes-template/images/demo/gtc.png" alt="img06" class="img-responsive" />
                             <div class="modal-works"></div>
                             <p>Şirketimiz tarafından gtc şirketinden sağlanan apı ile size en uygun uçuşları sunmak</p>
                         </div>
@@ -669,7 +669,7 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h4 class="modal-title" id="Modal-label-9">Sebepler</h4>
+                            <h4 class="modal-title" id="Modal-label-9"><strong>Amadeus</strong></h4>
                         </div>
                         <div class="modal-body">
                             <img src="lattes-template/images/demo/code.jpg" alt="img06" class="img-responsive" />
