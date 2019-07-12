@@ -281,7 +281,7 @@
 			</div>
 			
 				
-		 {{-- <section id="partnerler">
+		 <section id="partnerler">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
@@ -294,29 +294,29 @@
 				<div class="row">
 					<div class="col-lg-12 text-center">
 						<div class="owl-carousel">
-							<div class="item">
+							<div class="itemm">
 								<div class="partner-logo"><img src="lattes-template/images/1.png" alt="partners"></div>
 							</div>
-							<div class="item">
+							<div class="itemm">
 								<div class="partner-logo"><img src="lattes-template/images/2.png" alt="partners"></div>
 							</div>
-							<div class="item">
+							<div class="itemm">
 								<div class="partner-logo"><img src="lattes-template/images/3.png" alt="partners"></div>
 							</div>
-							<div class="item">
+							<div class="itemm">
 								<div class="partner-logo"><img src="lattes-template/images/5.png" alt="partners"></div>
 							</div>
-							<div class="item">
+							<div class="itemm">
 								<div class="partner-logo"><img src="lattes-template/images/6.png" alt="partners"></div>
 							</div>
-							<div class="item">
+							<div class="itemm">
 								<div class="partner-logo"><img src="lattes-template/images/7.png" alt="partners"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</section> --}}
+		</section>
 		
 			  
 		<section id="team" class="light-bg">
