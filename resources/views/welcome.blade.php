@@ -86,29 +86,29 @@
 							<div class="section-title">
 									<button class="collapsible ">HAKKIMIZDA</button>
 										<div class="content">
-											<p>Zaman kavramının çok önemli hale geldiği günümüzde, Kurutravel.com ailesi olarak bilet satın alırken yaşadığınız zorlukları gidermek ve sizlere en hızlı,en güvenli ve en ucuz bilet deneyimini sunmak için yola çıktık. Zaman ve ayrıntı gerektiren bir işlem olan bilet satın alma işlemini sizler için oldukça kolay ve güvenli bir hale getirdik.
+											<p><strong>Zaman kavramının çok önemli hale geldiği günümüzde, Kurutravel.com ailesi olarak bilet satın alırken yaşadığınız zorlukları gidermek ve sizlere en hızlı,en güvenli ve en ucuz bilet deneyimini sunmak için yola çıktık. Zaman ve ayrıntı gerektiren bir işlem olan bilet satın alma işlemini sizler için oldukça kolay ve güvenli bir hale getirdik.
 
 											Mutlak müşteri memnuniyetini temel prensip kabul eden Kurutravel ,bunun için sizlere en çok firma arasında dilediğiniz seçimi yapma ve en ucuz bileti, en hızlı ve en güvenli şekilde alma imkanını sunar.
 										
 											Biletlerinizi sitemizi ziyaret edip online olarak veya ALO 0332 248 8448 numaralı çağrı merkezimizi arayarak müşteri temsilcilerimiz aracılığı ile kolayca satın alabilirsiniz.
 										
-											Kurutravel.com 3-D security(3-d güvenlik doğrulama) sistemini kullanarak kullanıcı güvenliğini en üst seviyede tutar.</p>
+											Kurutravel.com 3-D security(3-d güvenlik doğrulama) sistemini kullanarak kullanıcı güvenliğini en üst seviyede tutar.</strong></p>
 										</div>
 							</div>
 						
 							<button class="collapsible ">MİSYONUMUZ</button>
 								<div class="content">
-									<p>Mutlak Müşteri Memnuniyeti' ilkesini hem çıkış hem de varış noktası kabul ederek müşterilerimize en iyi hizmeti sunmak.Bir ekip ruhu anlayışı 
+									<p><strong>Mutlak Müşteri Memnuniyeti' ilkesini hem çıkış hem de varış noktası kabul ederek müşterilerimize en iyi hizmeti sunmak.Bir ekip ruhu anlayışı 
 											içinde insanı temel alan,çözüme odaklı ve sistematik çalışma anlayışımızı sürekli geliştirmek.'Değişmeyen tek şey değişimin kendisidir.' sözünden 
 											hareketle sürekli hale getirdiğimiz hizmetiçi seminerlerimiz sayesinde kurutravel.com ailesi olarak yenilikleri takip etmek ve tüm bu yenilikleri
 											bir ekip ruhu anlayışı içinde müşterilerimizin işini kolaylaştıracak birer hizmet olarak sunmak.Mükemmelliği bir amaç olarak görüp, verdiğimiz 
 											hizmette en mükemmeli yakalama çabası içerisinde olmak. Yerelliği aşıp evrensel seviyede sürdürdüğümüz rekabet anlayışımızı, gelişimsel ve 
-											yenilikçi adımlarla sürekli destekleyerek en üst seviyede tutmak.</p>
+											yenilikçi adımlarla sürekli destekleyerek en üst seviyede tutmak.</strong></p>
 								</div>
 							<button class="collapsible ">VİZYONUMUZ</button>
 								<div class="content">
-									<p>Kaliteli hizmet anlayışıyla toplumun ihtiyaçlarına gelişimsel ve yenilikçi bir anlayış içinde hızlı,güvenilir ve ekonomik çözümler üreterek, alanında
-											evrensel anlamda lider bir kurum olmak.</p>
+									<p><strong>Kaliteli hizmet anlayışıyla toplumun ihtiyaçlarına gelişimsel ve yenilikçi bir anlayış içinde hızlı,güvenilir ve ekonomik çözümler üreterek, alanında
+											evrensel anlamda lider bir kurum olmak.</strong></p>
 								</div>	
 						</div>
                         <div align="center">
@@ -195,36 +195,36 @@
 				</div>
 			</div> 
 		</section> 
-		{{-- <section class="overlay-dark bg-img1 dark-bg short-section">
+		<section class="overlay-dark bg-img1 dark-bg short-section">
 			 <div class="container text-center">
 				<div class="row">
 					<div class="col-md-3 mb-sm-30">
 						<div class="counter-item">
-							<h2 data-count="59">59</h2>
-							<h6>awards</h6>
+							<h2 data-count="59">142</h2>
+							<h6>Counrtries</h6>
 						</div>
 					</div>
 					<div class="col-md-3 mb-sm-30">
 						<div class="counter-item">
-							<h2 data-count="1054">1054</h2>
+							<h2 data-count="1054">1700</h2>
 							<h6>Clients</h6>
 						</div>
 					</div>
 					<div class="col-md-3 mb-sm-30">
 						<div class="counter-item">
-							<h2 data-count="34">34</h2>
+							<h2 data-count="34">10</h2>
 							<h6>Team</h6>
 						</div>
 					</div>
 					<div class="col-md-3 mb-sm-30">
 						<div class="counter-item">
-							<h2 data-count="154">154</h2>
+							<h2 data-count="154">5</h2>
 							<h6>Project</h6>
 						</div>
 					</div>
 				</div>
 			</div> 
-		</section> --}}
+		</section>
 		<section id="portfolio" class="light-bg">
 			<div class="container">
 			<div class="row">
@@ -317,6 +317,8 @@
 				</div>
 			</div>
 		</section>
+		
+			  
 		<section id="team" class="light-bg">
 			<div class="container">
 				<div class="row">
@@ -617,35 +619,35 @@
                             <h4><strong> Uygun fiyatlarla Bilet Alabilmek İçin Neden Kurutravel.com'u Tercih Etmeliyim?</strong></h4>
 							<button class="collapsible ">Yüzlerce firmanın bileti</button>
 								<div class="content">
-									<p>Kurutravel.com’da yüzlerce firmanın bilet fiyatını sizler için karşılaştırıp en uygun fiyatla bilet almanıza yardımcı oluruz.</p>
+									<p><strong>Kurutravel.com’da yüzlerce firmanın bilet fiyatını sizler için karşılaştırıp en uygun fiyatla bilet almanıza yardımcı oluruz.</strong></p>
 								</div>
 							<button class="collapsible ">Ortak zamanlı fiyatları</button>
 								<div class="content">
-									<p>Bilet fiyatlarını firmalar ile ortak zamanlı olarak sizlere sunuyoruz böylelikle hem fiyat araştırmak için fazladan zaman harcamanıza gerek kalmıyor hem de biletinizi alırken herhangi kötü bir sürprizle karşılaşmıyorsunuz.</p>
+									<p><strong>Bilet fiyatlarını firmalar ile ortak zamanlı olarak sizlere sunuyoruz böylelikle hem fiyat araştırmak için fazladan zaman harcamanıza gerek kalmıyor hem de biletinizi alırken herhangi kötü bir sürprizle karşılaşmıyorsunuz.</strong></p>
 								</div>		
 							<button class="collapsible ">Çok sayıda firma arasından seçim</button>
 								<div class="content">
-									<p>Uçak bileti almak istediğinizde sizlere en çok sayıda firma arasından seçim yapma imkanı sunuyoruz böylelikle size en ekonomik ve en kaliteli hizmeti seçme imkanı veriyoruz.</p>
+									<p><strong>Uçak bileti almak istediğinizde sizlere en çok sayıda firma arasından seçim yapma imkanı sunuyoruz böylelikle size en ekonomik ve en kaliteli hizmeti seçme imkanı veriyoruz.</strong></p>
 								</div>
 							<button class="collapsible ">Birkaç basit tuşlama ile bilet satın alma</button>
 								<div class="content">
-									<p>Telefon veya bilgisayar üzerinden birkaç basit tuşlama ile bilet satın alma imkanı sunuyoruz böylece kıymetli vaktiniz size kalıyor.</p>
+									<p><strong>Telefon veya bilgisayar üzerinden birkaç basit tuşlama ile bilet satın alma imkanı sunuyoruz böylece kıymetli vaktiniz size kalıyor.</strong></p>
 								</div>
 							<button class="collapsible ">Kredi kartı ile taksitlendirme imkanı</button>
 								<div class="content">
-									<p>Kurutravel.com sitemiz üzerinden aldığınız biletleri kredi kartı ile taksitlendirme imkanı sunuyoruz.</p>
+									<p><strong>Kurutravel.com sitemiz üzerinden aldığınız biletleri kredi kartı ile taksitlendirme imkanı sunuyoruz.</strong></p>
 								</div>
 							<button class="collapsible ">Ulusal ve uluslar arası firmaların uçuş fiyatları</button>
 								<div class="content">
-									<p>Ulusal ve uluslararası tüm firmaların uçuş fiyatlarını sizler için Kurutravel.com sitesi üzerinde bir araya getirdik; böylece uçuş fiyatlarını öğrenmek için her bir firmanın sitesini tek tek gezmenize gerek kalmaz.</p>
+									<p><strong>Ulusal ve uluslararası tüm firmaların uçuş fiyatlarını sizler için Kurutravel.com sitesi üzerinde bir araya getirdik; böylece uçuş fiyatlarını öğrenmek için her bir firmanın sitesini tek tek gezmenize gerek kalmaz.</strong></p>
 								</div>
 							<button class="collapsible ">Birçok kampanya ve fırsat</button>
 								<div class="content">
-									<p>Birçok kampanya ve fırsatı Kurutravel.com sitesinde sizlerin hizmetine sunuyoruz.Kurutravel.com'u ziyaret edip bu kampanya ve fırsatlardan haberdar olur böylelikle hep bir adım önde olursunuz.</p>
+									<p><strong>Birçok kampanya ve fırsatı Kurutravel.com sitesinde sizlerin hizmetine sunuyoruz.Kurutravel.com'u ziyaret edip bu kampanya ve fırsatlardan haberdar olur böylelikle hep bir adım önde olursunuz.</strong></p>
 								</div>
 							<button class="collapsible ">3D-security sistemi</button>
 								<div class="content">
-									<p>3-D security(3-d güvenlik doğrulama) sistemini kullanarak sizlere en güvenli hizmeti sunuyoruz.</p>
+									<p><strong>3-D security(3-d güvenlik doğrulama) sistemini kullanarak sizlere en güvenli hizmeti sunuyoruz.</strong></p>
 								</div>
                             
                            
