@@ -281,7 +281,7 @@
 			</div>
 			
 				
-		 <section id="partnerler">
+		  <section id="partnerler">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
@@ -316,7 +316,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> 
 		
 			  
 		<section id="team" class="light-bg">
