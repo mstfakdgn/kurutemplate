@@ -56,10 +56,10 @@
 							<a class="page-scroll" href="#team">Takım<i class="fa fa-users fa-2x"></i></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#contact">İletişim<i class="fa fa-phone fa-2x"></i></a>
+							<a class="page-scroll" href="#help">Yardım<i class="fa fa-question-circle fa-2x"></i></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#help">Yardım<i class="fa fa-question-circle fa-2x"></i></a>
+							<a class="page-scroll" href="#contact">İletişim<i class="fa fa-phone fa-2x"></i></a>
 						</li>
 					</ul>
 				</div>
@@ -441,6 +441,21 @@
 				</div>
 			</div>
 		</section>
+		<section id=help>
+			<h3><strong>Daha fazla bilgi için iletisim@kurutravel.com</strong></h3>
+
+			<div align="center">
+					<div class="ot-portfolio-item">
+						<figure class="effect-bubba">
+							<img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
+							<figcaption>
+								<h2>Nasıl uçak bileti alabilirim?</h2>
+								<a href="#" data-toggle="modal" data-target="#Modal-10">View more</a>
+							</figcaption>
+						</figure>
+					</div>
+			</div>
+		</section>	
 		<section id="contact">
 			<div class="container">
 				<div class="row">
@@ -500,29 +515,11 @@
 				</div>
 			</div>
 		</section>
-		<section id=help>
-			<h2><strong>Daha fazla bilgi için iletisim@kurutravel.com</strong></h2>
-
-			<div align="center">
-					<div class="ot-portfolio-item">
-						<figure class="effect-bubba">
-							<img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
-							<figcaption>
-								<h2>Nasıl uçak bileti alabilirim?</h2>
-								<a href="#" data-toggle="modal" data-target="#Modal-10">View more</a>
-							</figcaption>
-						</figure>
-					</div>
-			</div>
-		</section>	
+		
 		<p id="back-top">
 			<a href="#top"><i class="fa fa-angle-up"></i></a>
 		</p>
-		<footer>
-			<div class="container text-center">
-				<p>Designed by <a href="http://moozthemes.com"><span>MOOZ</span>Themes.com</a></p>
-			</div>
-		</footer>
+		
 
 		<!-- Modal for portfolio item 1 -->
 		<div class="modal fade" id="Modal-1" tabindex="-1" role="dialog" aria-labelledby="Modal-label-1">
