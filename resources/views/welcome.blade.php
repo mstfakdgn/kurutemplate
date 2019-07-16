@@ -49,9 +49,9 @@
 						<li>
 							<a class="page-scroll" href="#portfolio">Portföy<i class="fa fa-folder fa-2x"></i></a>
 						</li>
-						<li>
+						{{-- <li>
 							<a class="page-scroll" href="#partnerler">Partnerlerimiz<i class="fa fa-building-o fa-2x"></i></a>
-						</li>
+						</li> --}}
 						<li>
 							<a class="page-scroll" href="#team">Takım<i class="fa fa-users fa-2x"></i></a>
 						</li>
