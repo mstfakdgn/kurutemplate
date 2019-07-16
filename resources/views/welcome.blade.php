@@ -89,30 +89,32 @@
 							<div class="section-title">
 									<button class="collapsible ">HAKKIMIZDA</button>
 										<div class="content">
-											<p><strong>Zaman kavramının çok önemli hale geldiği günümüzde, Kurutravel.com ailesi olarak bilet satın alırken yaşadığınız zorlukları gidermek ve sizlere en hızlı,en güvenli ve en ucuz bilet deneyimini sunmak için yola çıktık. Zaman ve ayrıntı gerektiren bir işlem olan bilet satın alma işlemini sizler için oldukça kolay ve güvenli bir hale getirdik.
-
-											Mutlak müşteri memnuniyetini temel prensip kabul eden Kurutravel ,bunun için sizlere en çok firma arasında dilediğiniz seçimi yapma ve en ucuz bileti, en hızlı ve en güvenli şekilde alma imkanını sunar.
-										
-											Biletlerinizi sitemizi ziyaret edip online olarak veya ALO 0332 248 8448 numaralı çağrı merkezimizi arayarak müşteri temsilcilerimiz aracılığı ile kolayca satın alabilirsiniz.
-										
-											Kurutravel.com 3-D security(3-d güvenlik doğrulama) sistemini kullanarak kullanıcı güvenliğini en üst seviyede tutar.</strong></p>
+											<p><strong>Zaman kavramının çok önemli hale geldiği günümüzde, Kurutravel.com ailesi olarak bilet satın alırken yaşadığınız zorlukları gidermek
+												 ve sizlere en hızlı,en güvenli ve en ucuz bilet deneyimini sunmak için yola çıktık. Zaman ve ayrıntı gerektiren bir işlem olan bilet satın 
+												 alma işlemini sizler için oldukça kolay ve güvenli bir hale getirdik.Mutlak müşteri memnuniyetini temel prensip kabul eden Kurutravel ,bunun 
+												 için sizlere en çok firma arasında dilediğiniz seçimi yapma ve en ucuz bileti, en hızlı ve en güvenli şekilde alma imkanını sunar.Biletlerinizi 
+												 sitemizi ziyaret edip online olarak veya ALO 0332 248 8448 numaralı çağrı merkezimizi arayarak müşteri temsilcilerimiz aracılığı ile kolayca satın 
+												 alabilirsiniz.Kurutravel.com 3-D security(3-d güvenlik doğrulama) sistemini kullanarak kullanıcı güvenliğini en üst seviyede tutar.</strong></p>
 										</div>
 							</div>
-						
-							<button class="collapsible ">MİSYONUMUZ</button>
-								<div class="content">
-									<p><strong>Mutlak Müşteri Memnuniyeti' ilkesini hem çıkış hem de varış noktası kabul ederek müşterilerimize en iyi hizmeti sunmak.Bir ekip ruhu anlayışı 
-											içinde insanı temel alan,çözüme odaklı ve sistematik çalışma anlayışımızı sürekli geliştirmek.'Değişmeyen tek şey değişimin kendisidir.' sözünden 
-											hareketle sürekli hale getirdiğimiz hizmetiçi seminerlerimiz sayesinde kurutravel.com ailesi olarak yenilikleri takip etmek ve tüm bu yenilikleri
-											bir ekip ruhu anlayışı içinde müşterilerimizin işini kolaylaştıracak birer hizmet olarak sunmak.Mükemmelliği bir amaç olarak görüp, verdiğimiz 
-											hizmette en mükemmeli yakalama çabası içerisinde olmak. Yerelliği aşıp evrensel seviyede sürdürdüğümüz rekabet anlayışımızı, gelişimsel ve 
-											yenilikçi adımlarla sürekli destekleyerek en üst seviyede tutmak.</strong></p>
-								</div>
-							<button class="collapsible ">VİZYONUMUZ</button>
-								<div class="content">
-									<p><strong>Kaliteli hizmet anlayışıyla toplumun ihtiyaçlarına gelişimsel ve yenilikçi bir anlayış içinde hızlı,güvenilir ve ekonomik çözümler üreterek, alanında
-											evrensel anlamda lider bir kurum olmak.</strong></p>
-								</div>	
+							<div class="section-title">
+								<button class="collapsible ">MİSYONUMUZ</button>
+									<div class="content">
+										<p><strong>Mutlak Müşteri Memnuniyeti' ilkesini hem çıkış hem de varış noktası kabul ederek müşterilerimize en iyi hizmeti sunmak.Bir ekip ruhu anlayışı 
+												içinde insanı temel alan,çözüme odaklı ve sistematik çalışma anlayışımızı sürekli geliştirmek.'Değişmeyen tek şey değişimin kendisidir.' sözünden 
+												hareketle sürekli hale getirdiğimiz hizmetiçi seminerlerimiz sayesinde kurutravel.com ailesi olarak yenilikleri takip etmek ve tüm bu yenilikleri
+												bir ekip ruhu anlayışı içinde müşterilerimizin işini kolaylaştıracak birer hizmet olarak sunmak.Mükemmelliği bir amaç olarak görüp, verdiğimiz 
+												hizmette en mükemmeli yakalama çabası içerisinde olmak. Yerelliği aşıp evrensel seviyede sürdürdüğümüz rekabet anlayışımızı, gelişimsel ve 
+												yenilikçi adımlarla sürekli destekleyerek en üst seviyede tutmak.</strong></p>
+									</div>
+							</div>
+							<div class="section-title">		
+								<button class="collapsible ">VİZYONUMUZ</button>
+									<div class="content">
+										<p><strong>Kaliteli hizmet anlayışıyla toplumun ihtiyaçlarına gelişimsel ve yenilikçi bir anlayış içinde hızlı,güvenilir ve ekonomik çözümler üreterek, alanında
+												evrensel anlamda lider bir kurum olmak.</strong></p>
+									</div>
+							</div>			
 						</div>
 					</div>
 				</div>
@@ -459,7 +461,7 @@
 			</div>
 		</section>
 		 <section id=help>
-			<div class="col-md-6">
+			
 				<div class="ot-portfolio-item">
 					<figure class="effect-bubba">
 						<img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
@@ -469,7 +471,7 @@
 						</figcaption>
 					</figure>
 				</div>
-			</div>
+			
 		<!-- end portfolio item -->
 				
 		</section>	 
