@@ -34,7 +34,7 @@
 					
 					<span class="sr-only">Toggle navigation</span>
 					
-					<a class="navbar-brand page-scroll" href="#page-top"><img class="image" src="lattes-template/images/kuru.png" alt="Lattes theme logo"></a>
+					<a class="navbar-brand page-scroll" href="#page-top"><img class="image" src="lattes-template/images/logo1.jpeg" alt="Lattes theme logo"></a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
