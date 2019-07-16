@@ -73,7 +73,7 @@
 				<div class="slider-container">
                     <div class="intro-text">
 						
-                        <div class="intro-lead-in">Agentamıza hoşgeldiniz</div>
+                        <div class="intro-lead-in">Agentemize hoşgeldiniz</div>
 						<div class="intro-heading">Sizinle tanışmak güzel</div>
 						<a href="#about" class="page-scroll btn btn-xl">Dahası</a>
 
@@ -114,17 +114,6 @@
 											evrensel anlamda lider bir kurum olmak.</strong></p>
 								</div>	
 						</div>
-                        {{-- <div align="center">
-                                <div class="ot-portfolio-item">
-                                    <figure class="effect-bubba">
-                                        <img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
-                                        <figcaption>
-                                            <h2>Neden KuruTravel</h2>
-                                            <a href="#" data-toggle="modal" data-target="#Modal-6">View more</a>
-                                        </figcaption>
-                                    </figure>
-                                </div>
-                        </div> --}}
 					</div>
                 </div>
                 
@@ -133,8 +122,8 @@
 					<div class="col-md-4 text-center">
 						<div class="mz-module-about">
 							<i class="fa fa-briefcase ot-circle"></i>
-							<h3>Web Site Geliştirmesi</h3>
-							<p>İhtiyaçlarınıza uygun web sitelerinin geliştirilmesi</p>
+							<h3>Web Sitesi Geliştirme</h3>
+							<p>İhtiyaçlarınıza uygun web site ve uygulamalarının geliştirilmesi</p>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -143,14 +132,14 @@
 						<div class="mz-module-about">
 							<i class="fa fa-ticket fa-2x ot-circle"></i>
 							<h3>Bilet Satın Alma İşlemleri</h3>
-							<p>Sizin için en uygun bilete ulaşmanızı sağlayarak satma işleminin sorunsuz sağlanması</p>
+							<p>Sizin için en uygun uçak biletlerine ulaşmanızı sağlayarak satma işleminin sorunsuz tamamlanması</p>
 						</div>
                     </div>
                     <div class="col-md-4 text-center">
                          <div class="mz-module-about">
                             <i class="fa fa-car fa-3x ot-circle"></i>
                             <h3>Araba Kiralama</h3>
-                            <p>İstenilen arabaların sizlere kiralanması</p>
+                            <p>Acentemizden istediğiniz arabanın kullanımınız için size temini</p>
                         </div>
                     </div>
 					<!-- end about module -->
@@ -171,10 +160,10 @@
 						<!-- skill bar item -->
 						<div class="skillbar-item">
 							<div class="skillbar-score">
-								<span class="score">95</span><span class="percent">%</span>
+								<span class="score">85</span><span class="percent">%</span>
 							</div>
 							<div class="skillbar" data-percent="85%">
-								<h3>Biletler</h3>
+								<h3>Gtc(Uçak bileti)</h3>
 								<div class="skillbar-bar">
 									<div class="skillbar-percent" style="width: 85%;">
 									</div>
@@ -187,9 +176,21 @@
 								<span class="score">70</span><span class="percent">%</span>
 							</div>
 							<div class="skillbar" data-percent="70%">
-								<h3>E-ticaret</h3>
+								<h3>E-ticaret web uygulaması</h3>
 								<div class="skillbar-bar">
 									<div class="skillbar-percent" style="width: 70%;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="skillbar-item">
+							<div class="skillbar-score">
+								<span class="score">20</span><span class="percent">%</span>
+							</div>
+							<div class="skillbar" data-percent="20%">
+								<h3>Amadeus(Uçak bileti)</h3>
+								<div class="skillbar-bar">
+									<div class="skillbar-percent" style="width: 20%;">
 									</div>
 								</div>
 							</div>
@@ -221,7 +222,7 @@
 					</div>
 					<div class="col-md-3 mb-sm-30">
 						<div class="counter-item">
-							<h2 data-count="154">5</h2>
+							<h2 data-count="154">3</h2>
 							<h6>Project</h6>
 						</div>
 					</div>
@@ -234,7 +235,7 @@
 				<div class="col-lg-12 text-center">
 					<div class="section-title">
 						<h2>PORTFÖY</h2>
-						<p>Projelerimizi göstermek kenidimizi size ifade edebilmemizin en kolay yolu</p>
+						<p>Projelerimiz şirketimizi ve kendimizi sizlere tanıtmanın en iyi yoludur</p>
 					</div>
 				</div>
 			</div>
@@ -290,29 +291,29 @@
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
 							<h2>Partnerlerimiz</h2>
-							<p>Verdiğimiz hizmette bir likde çalışdığımız kuruluşlar</p>
+							<p>Verdiğimiz hizmette bize yardımcı olan kuruluşlar</p>
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-lg-12 text-center">
 						<div class="owl-carousel">
-							<div class="itemm">
+							<div class="item">
 								<div class="partner-logo"><img src="lattes-template/images/1.png" alt="partners"></div>
 							</div>
-							<div class="itemm">
+							<div class="item">
 								<div class="partner-logo"><img src="lattes-template/images/2.png" alt="partners"></div>
 							</div>
-							<div class="itemm">
+							<div class="item">
 								<div class="partner-logo"><img src="lattes-template/images/3.png" alt="partners"></div>
 							</div>
-							<div class="itemm">
+							<div class="item">
 								<div class="partner-logo"><img src="lattes-template/images/5.png" alt="partners"></div>
 							</div>
-							<div class="itemm">
+							<div class="item">
 								<div class="partner-logo"><img src="lattes-template/images/6.png" alt="partners"></div>
 							</div>
-							<div class="itemm">
+							<div class="item">
 								<div class="partner-logo"><img src="lattes-template/images/7.png" alt="partners"></div>
 							</div>
 						</div>
@@ -333,6 +334,21 @@
 					</div>
 				</div>
 				<div class="row">
+					<!-- team member item -->
+					<div class="col-md-3">
+							<div class="team-item">
+							<div class="team-image">
+								<img src="lattes-template/images/demo/takım.jpg" class="img-responsive" alt="author">
+							</div>
+							<div class="team-text">
+								<h3>MEHMET KURU</h3>
+								<div class="team-location">Adana</div>
+								<div class="team-position">CEO</div>
+								<p>KURUCU BAŞKAN</p>
+							</div>
+						 </div>
+					</div>
+					<!-- end team member item -->
 					<!-- team member item -->
 					<div class="col-md-3">
 						<div class="team-item">
@@ -437,12 +453,12 @@
                             </div>
                          </div>
                     </div>
-                    <!-- end team member item -->
+					<!-- end team member item -->
 				</div>
 			</div>
 		</section>
 		 <section id=help>
-			<div class="col-md-4">
+			<div class="col-md-6">
 				<div class="ot-portfolio-item">
 					<figure class="effect-bubba">
 						<img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
@@ -454,7 +470,7 @@
 				</div>
 			</div>
 			<!-- end portfolio item -->
-			<div class="col-md-4">
+			<div class="col-md-6">
 				<div class="ot-portfolio-item">
 					<figure class="effect-bubba">
 						<img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
