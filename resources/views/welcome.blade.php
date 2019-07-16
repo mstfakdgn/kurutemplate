@@ -114,7 +114,7 @@
 											evrensel anlamda lider bir kurum olmak.</strong></p>
 								</div>	
 						</div>
-                        <div align="center">
+                        {{-- <div align="center">
                                 <div class="ot-portfolio-item">
                                     <figure class="effect-bubba">
                                         <img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
@@ -124,7 +124,7 @@
                                         </figcaption>
                                     </figure>
                                 </div>
-                        </div>
+                        </div> --}}
 					</div>
                 </div>
                 
@@ -441,21 +441,31 @@
 				</div>
 			</div>
 		</section>
-		<section id=help>
-			<h3><strong>Daha fazla bilgi için iletisim@kurutravel.com</strong></h3>
-
-			<div align="center">
-					<div class="ot-portfolio-item">
-						<figure class="effect-bubba">
-							<img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
-							<figcaption>
-								<h2>Nasıl uçak bileti alabilirim?</h2>
-								<a href="#" data-toggle="modal" data-target="#Modal-10">View more</a>
-							</figcaption>
-						</figure>
-					</div>
+		 <section id=help>
+			<div class="col-md-4">
+				<div class="ot-portfolio-item">
+					<figure class="effect-bubba">
+						<img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
+						<figcaption>
+							<h2>Neden KuruTravel</h2>
+							<a href="#" data-toggle="modal" data-target="#Modal-6">View more</a>
+						</figcaption>
+					</figure>
+				</div>
 			</div>
-		</section>	
+			<!-- end portfolio item -->
+			<div class="col-md-4">
+				<div class="ot-portfolio-item">
+					<figure class="effect-bubba">
+						<img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
+						<figcaption>
+							<h2>Nasıl uçak bileti satın alabilirim?</h2>
+							<a href="#" data-toggle="modal" data-target="#Modal-10">View more</a>
+						</figcaption>
+					</figure>
+				</div>
+			</div>	
+		</section>	 
 		<section id="contact">
 			<div class="container">
 				<div class="row">
