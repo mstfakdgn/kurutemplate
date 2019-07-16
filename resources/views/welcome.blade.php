@@ -152,8 +152,8 @@
 				<div class="row">
 					<div class="col-md-6">
 						<div class="skills-text">
-							<h2>Yaratım sürecimiz</h2>
-							<p>Üzerinde çalışmakda olduğumuz projeler</p>
+							<h2>Proje gelişim süreçlerimiz</h2>
+							<p>Üzerinde çalışmakta olduğumuz projeler</p>
 						</div>
 					</div>
 					<div class="col-md-6">
@@ -247,7 +247,7 @@
 							<img src="lattes-template/images/demo/ecommerc.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>E-TİCARET</h2>
-								<p>Oğuzhan , Leyla</p>
+								
 								
 							</figcaption>
 						</figure>
@@ -261,7 +261,7 @@
 							<img src="lattes-template/images/demo/plane.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>GTC</h2>
-								<p>Pike, Muhammet</p>
+								
 								
 							</figcaption>
 						</figure>
@@ -275,7 +275,7 @@
 							<img src="lattes-template/images/demo/flight.jpg" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>AMADEUS</h2>
-								<p>Pike,Muhammet,Mustafa,Ömer,Leyla,Oğuzhan</p>
+								
 								
 							</figcaption>
 						</figure>
@@ -292,9 +292,10 @@
 				<div class="ot-portfolio-item">
 					<figure class="effect-bubba">
 						<img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
+						
 						<figcaption>
-							<h2>Neden KuruTravel</h2>
 							<a href="#" data-toggle="modal" data-target="#Modal-6">View more</a>
+							<h1 style="color:cornsilk"><strong>NEDEN KURUTRAVEL</strong></h1>
 						</figcaption>
 					</figure>
 				</div>
@@ -367,105 +368,9 @@
 		</p>
 		
 
-		<!-- Modal for portfolio item 1 -->
-		<div class="modal fade" id="Modal-1" tabindex="-1" role="dialog" aria-labelledby="Modal-label-1">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-1">Dean & Letter</h4>
-					</div>
-					<div class="modal-body">
-						<img src="lattes-template/images/demo/main.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
+		
 
-		<!-- Modal for portfolio item 2 -->
-		<div class="modal fade" id="Modal-2" tabindex="-1" role="dialog" aria-labelledby="Modal-label-2">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-2">Startup Framework</h4>
-					</div>
-					<div class="modal-body">
-						<img src="lattes-template/images/demo/main.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Modal for portfolio item 3 -->
-		<div class="modal fade" id="Modal-3" tabindex="-1" role="dialog" aria-labelledby="Modal-label-3">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-3">Lamp & Velvet</h4>
-					</div>
-					<div class="modal-body">
-						<img src="lattes-template/images/demo/main.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Modal for portfolio item 4 -->
-		<div class="modal fade" id="Modal-4" tabindex="-1" role="dialog" aria-labelledby="Modal-label-4">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-4">Smart Name</h4>
-					</div>
-					<div class="modal-body">
-						<img src="lattes-template/images/demo/main.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Modal for portfolio item 5 -->
-		<div class="modal fade" id="Modal-5" tabindex="-1" role="dialog" aria-labelledby="Modal-label-5">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-5">Fast People</h4>
-					</div>
-					<div class="modal-body">
-						<img src="lattes-template/images/demo/main.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-        </div>
+		
         <!-- Modal for portfolio item 6 -->
 		<div class="modal fade" id="Modal-6" tabindex="-1" role="dialog" aria-labelledby="Modal-label-6">
                 <div class="modal-dialog" role="document">
@@ -480,56 +385,38 @@
                             <h4><strong> Uygun fiyatlarla Bilet Alabilmek İçin Neden Kurutravel.com'u Tercih Etmeliyim?</strong></h4>
 							<button class="collapsible ">Yüzlerce firmanın bileti</button>
 								<div class="content">
-									<p><strong>Kurutravel.com’da yüzlerce firmanın bilet fiyatını sizler için karşılaştırıp en uygun fiyatla bilet almanıza yardımcı oluruz.</strong></p>
+									<p><strong>Kurutravel.com’da yüzlerce firmanın bilet fiyatını sizler için karşılaştırıp en uygun fiyatla bilet almanıza yardımcı olacağız.</strong></p>
 								</div>
 							<button class="collapsible ">Ortak zamanlı fiyatları</button>
 								<div class="content">
-									<p><strong>Bilet fiyatlarını firmalar ile ortak zamanlı olarak sizlere sunuyoruz böylelikle hem fiyat araştırmak için fazladan zaman harcamanıza gerek kalmıyor hem de biletinizi alırken herhangi kötü bir sürprizle karşılaşmıyorsunuz.</strong></p>
+									<p><strong>Bilet fiyatlarını firmalar ile ortak zamanlı olarak sizlere sunup böylelikle hem fiyat araştırmak için fazladan zaman harcamanıza gerek kalmayacak hem de biletinizi alırken herhangi kötü bir sürprizle karşılaşmayacaksınız.</strong></p>
 								</div>		
 							<button class="collapsible ">Çok sayıda firma arasından seçim</button>
 								<div class="content">
-									<p><strong>Uçak bileti almak istediğinizde sizlere en çok sayıda firma arasından seçim yapma imkanı sunuyoruz böylelikle size en ekonomik ve en kaliteli hizmeti seçme imkanı veriyoruz.</strong></p>
+									<p><strong>Uçak bileti almak istediğinizde sizlere çok sayıda firma arasından seçim yapma imkanı sunacağız böylelikle size en ekonomik ve en kaliteli hizmeti seçme imkanı vereceğiz.</strong></p>
 								</div>
 							<button class="collapsible ">Birkaç basit tuşlama ile bilet satın alma</button>
 								<div class="content">
-									<p><strong>Telefon veya bilgisayar üzerinden birkaç basit tuşlama ile bilet satın alma imkanı sunuyoruz böylece kıymetli vaktiniz size kalıyor.</strong></p>
+									<p><strong>Telefon veya bilgisayar üzerinden birkaç basit tuşlama ile bilet satın alma imkanı sunacağız böylece kıymetli vaktiniz size kalacak.</strong></p>
 								</div>
 							<button class="collapsible ">Kredi kartı ile taksitlendirme imkanı</button>
 								<div class="content">
-									<p><strong>Kurutravel.com sitemiz üzerinden aldığınız biletleri kredi kartı ile taksitlendirme imkanı sunuyoruz.</strong></p>
+									<p><strong>Kurutravel.com sitemiz üzerinden aldığınız biletleri kredi kartı ile taksitlendirme imkanı sunacağız.</strong></p>
 								</div>
 							<button class="collapsible ">Ulusal ve uluslar arası firmaların uçuş fiyatları</button>
 								<div class="content">
-									<p><strong>Ulusal ve uluslararası tüm firmaların uçuş fiyatlarını sizler için Kurutravel.com sitesi üzerinde bir araya getirdik; böylece uçuş fiyatlarını öğrenmek için her bir firmanın sitesini tek tek gezmenize gerek kalmaz.</strong></p>
+									<p><strong>Ulusal ve uluslararası tüm firmaların uçuş fiyatlarını sizler için Kurutravel.com sitesi üzerinde bir araya getirdik; böylece uçuş fiyatlarını öğrenmek için her bir firmanın sitesini tek tek gezmenize gerek kalmayacak.</strong></p>
 								</div>
 							<button class="collapsible ">Birçok kampanya ve fırsat</button>
 								<div class="content">
-									<p><strong>Birçok kampanya ve fırsatı Kurutravel.com sitesinde sizlerin hizmetine sunuyoruz.Kurutravel.com'u ziyaret edip bu kampanya ve fırsatlardan haberdar olur böylelikle hep bir adım önde olursunuz.</strong></p>
+									<p><strong>Birçok kampanya ve fırsatı Kurutravel.com sitesinde sizlerin hizmetine sunuyoruz.Kurutravel.com'u ziyaret edip bu kampanya ve fırsatlardan haberdar olur böylelikle hep bir adım önde olacaksınız.</strong></p>
 								</div>
 							<button class="collapsible ">3D-security sistemi</button>
 								<div class="content">
-									<p><strong>3-D security(3-d güvenlik doğrulama) sistemini kullanarak sizlere en güvenli hizmeti sunuyoruz.</strong></p>
+									<p><strong>3-D security(3-d güvenlik doğrulama) sistemini kullanarak sizlere en güvenli hizmeti sunacağız.</strong></p>
 								</div>
 							
-							<h4><strong> Daha fazla bilgi için iletisim@kurutravel.com</strong></h4>
-								
-							<button class="collapsible ">Nasıl uçak bileti satın alabilirim?</button>
-								<div class="content">
-									<p><strong>Ucakbileti.com müşterilerine tüm uçak biletlerini (tüm havayolları eksiksiz) bir şekilde sizlere sunmaktadır. Ucuzdan, pahalıya doğru sıralayarak sizlere zaman kazandırmaktadır. Bunun ile birlikte farklı farklı havayollarını bir arada tek seferede alabildiğiniz gibi ayrıca diğer firmalara göre daha az hizmet bedeli aldığından aynı bileti daha uygun fiyata alabilrisiniz.</strong></p>
-								</div>
-							<button class="collapsible ">Peki uçağın içinde kullanımı yasak veya kısıtlı olan elektronik cihazlar nelerdir?</button>
-								<div class="content">
-									<p><strong>Öncelikle belirtmekte fayda var, uçağınızın kalkışı ve inişi süresince elektronik saat, kalp ve işitme cihazları dışında kalan tüm elektronik cihazların kullanımı yasaktır. Öte yandan uçak normal uçuşa geçtikten sonra kullanımına izin verilen elektronik cihazlar da vardır. Bu nedenle tüm elektronik cihaz kullanım listesine tek tek bakalım.</strong></p>
-								</div>
-							<button class="collapsible ">How do I edit my pricing settings?</button>
-								<div class="content">
-									<p><strong>Integer enim odio, condimentum et mollis sit amet, consectetur eu dolor. Pellentesque egestas molestie egestas molestie urna vel luct. Phasellus non libero in lorem tincidunt semper. Sed risus enim, fringilla id consectetur sed, lacinia nec odio urabitur eget risus arcu fusce consectetur tellus id lorem luctus id eleifend magna lobortis. Aliquam facilisis magna ac nisi porta porta. In hac habitasse platea dictumst ellentesque egestas molestie urna vel luct.
-
-											Phasellus non libero in lorem tincidunt semper. Sed risus enim, fringilla id consectetur sed, lacinia nec odio. Curabitur eget risus arcu.Fusce consectetur tellus id lorem luctus id eleifend magna lobortis. Aliquam facilisis magna ac nisi porta porta. In hac habitasse platea dictumst.</strong></p>
-								</div>	
-                            
-                           
-                        </div>
+						 </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                         </div>
