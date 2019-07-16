@@ -168,7 +168,7 @@ section {
 --------------------*/
 
 header {
-    background-image: url(../images/demo/airport1.jpg);
+    background: url(../images/demo/airport1.jpg);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
@@ -180,8 +180,10 @@ header {
     color: #fff;
 }
 .slider-bg{
+    
     background-color: #000;
     opacity: 0.7;
+    
 }
 header .intro-text {
     padding-top: 100px;
@@ -674,6 +676,7 @@ font-size: 11px;
     
     height: 100%;
     width:100%;
+    opacity: 0.9;
 
 }
 
@@ -814,3 +817,7 @@ and (max-width : 480px) {
 .active:after {
   content: "\2796"; 
 } 
+/* video syle */
+
+  
+ 
