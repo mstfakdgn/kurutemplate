@@ -115,7 +115,7 @@
 								</div>	
 						</div>
 					</div>
-                </div>
+				</div>
                 
 				<div class="row">
 					<!-- about module -->
@@ -146,6 +146,7 @@
 				</div>
 			</div>
 			<!-- /.container -->
+			
 		</section>
 		<section >
 			 <div class="container">
@@ -285,7 +286,7 @@
 			</div>
 			
 				
-		 <section id="partnerler">
+		 {{-- <section id="partnerler">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
@@ -320,7 +321,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> --}}
 		
 			  
 		<section id="team" class="light-bg">
@@ -469,18 +470,8 @@
 					</figure>
 				</div>
 			</div>
-			<!-- end portfolio item -->
-			<div class="col-md-6">
-				<div class="ot-portfolio-item">
-					<figure class="effect-bubba">
-						<img src="lattes-template/images/demo/question.jpg" alt="img02" class="img-responsive" />
-						<figcaption>
-							<h2>Nasıl uçak bileti satın alabilirim?</h2>
-							<a href="#" data-toggle="modal" data-target="#Modal-10">View more</a>
-						</figcaption>
-					</figure>
-				</div>
-			</div>	
+		<!-- end portfolio item -->
+				
 		</section>	 
 		<section id="contact">
 			<div class="container">
@@ -690,6 +681,23 @@
 								<div class="content">
 									<p><strong>3-D security(3-d güvenlik doğrulama) sistemini kullanarak sizlere en güvenli hizmeti sunuyoruz.</strong></p>
 								</div>
+							
+							<h4><strong> Daha fazla bilgi için iletisim@kurutravel.com</strong></h4>
+								
+							<button class="collapsible ">Nasıl uçak bileti satın alabilirim?</button>
+								<div class="content">
+									<p><strong>Ucakbileti.com müşterilerine tüm uçak biletlerini (tüm havayolları eksiksiz) bir şekilde sizlere sunmaktadır. Ucuzdan, pahalıya doğru sıralayarak sizlere zaman kazandırmaktadır. Bunun ile birlikte farklı farklı havayollarını bir arada tek seferede alabildiğiniz gibi ayrıca diğer firmalara göre daha az hizmet bedeli aldığından aynı bileti daha uygun fiyata alabilrisiniz.</strong></p>
+								</div>
+							<button class="collapsible ">Peki uçağın içinde kullanımı yasak veya kısıtlı olan elektronik cihazlar nelerdir?</button>
+								<div class="content">
+									<p><strong>Öncelikle belirtmekte fayda var, uçağınızın kalkışı ve inişi süresince elektronik saat, kalp ve işitme cihazları dışında kalan tüm elektronik cihazların kullanımı yasaktır. Öte yandan uçak normal uçuşa geçtikten sonra kullanımına izin verilen elektronik cihazlar da vardır. Bu nedenle tüm elektronik cihaz kullanım listesine tek tek bakalım.</strong></p>
+								</div>
+							<button class="collapsible ">How do I edit my pricing settings?</button>
+								<div class="content">
+									<p><strong>Integer enim odio, condimentum et mollis sit amet, consectetur eu dolor. Pellentesque egestas molestie egestas molestie urna vel luct. Phasellus non libero in lorem tincidunt semper. Sed risus enim, fringilla id consectetur sed, lacinia nec odio urabitur eget risus arcu fusce consectetur tellus id lorem luctus id eleifend magna lobortis. Aliquam facilisis magna ac nisi porta porta. In hac habitasse platea dictumst ellentesque egestas molestie urna vel luct.
+
+											Phasellus non libero in lorem tincidunt semper. Sed risus enim, fringilla id consectetur sed, lacinia nec odio. Curabitur eget risus arcu.Fusce consectetur tellus id lorem luctus id eleifend magna lobortis. Aliquam facilisis magna ac nisi porta porta. In hac habitasse platea dictumst.</strong></p>
+								</div>	
                             
                            
                         </div>
@@ -758,38 +766,6 @@
                     </div>
                 </div>
 			</div>
-			
-			<div class="modal fade" id="Modal-10" tabindex="-1" role="dialog" aria-labelledby="Modal-label-10">
-					<div class="modal-dialog" role="document">
-						<div class="modal-content">
-							<div class="modal-header">
-								<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-								<h4 class="modal-title" id="Modal-label-10"><strong>Yardım</strong></h4>
-							</div>
-							<div class="modal-body">
-								<img src="lattes-template/images/demo/question1.jpg" alt="img06" class="img-responsive" />
-								<div class="modal-works"></div>
-									<button class="collapsible ">Nasıl uçak bileti satın alabilirim?</button>
-									<div class="content">
-										<p><strong>Ucakbileti.com müşterilerine tüm uçak biletlerini (tüm havayolları eksiksiz) bir şekilde sizlere sunmaktadır. Ucuzdan, pahalıya doğru sıralayarak sizlere zaman kazandırmaktadır. Bunun ile birlikte farklı farklı havayollarını bir arada tek seferede alabildiğiniz gibi ayrıca diğer firmalara göre daha az hizmet bedeli aldığından aynı bileti daha uygun fiyata alabilrisiniz.</strong></p>
-									</div>
-									<button class="collapsible ">Peki uçağın içinde kullanımı yasak veya kısıtlı olan elektronik cihazlar nelerdir?</button>
-									<div class="content">
-										<p><strong>Öncelikle belirtmekte fayda var, uçağınızın kalkışı ve inişi süresince elektronik saat, kalp ve işitme cihazları dışında kalan tüm elektronik cihazların kullanımı yasaktır. Öte yandan uçak normal uçuşa geçtikten sonra kullanımına izin verilen elektronik cihazlar da vardır. Bu nedenle tüm elektronik cihaz kullanım listesine tek tek bakalım.</strong></p>
-									</div>
-									<button class="collapsible ">How do I edit my pricing settings?</button>
-									<div class="content">
-										<p><strong>Integer enim odio, condimentum et mollis sit amet, consectetur eu dolor. Pellentesque egestas molestie egestas molestie urna vel luct. Phasellus non libero in lorem tincidunt semper. Sed risus enim, fringilla id consectetur sed, lacinia nec odio urabitur eget risus arcu fusce consectetur tellus id lorem luctus id eleifend magna lobortis. Aliquam facilisis magna ac nisi porta porta. In hac habitasse platea dictumst ellentesque egestas molestie urna vel luct.
-
-												Phasellus non libero in lorem tincidunt semper. Sed risus enim, fringilla id consectetur sed, lacinia nec odio. Curabitur eget risus arcu.Fusce consectetur tellus id lorem luctus id eleifend magna lobortis. Aliquam facilisis magna ac nisi porta porta. In hac habitasse platea dictumst.</strong></p>
-									</div>
-							</div>
-							<div class="modal-footer">
-								<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-							</div>
-						</div>
-					</div>
-				</div>	
 
 		<!-- Bootstrap core JavaScript
 			================================================== -->
