@@ -43,23 +43,20 @@
 							<a href="#page-top"></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#about">Hakkımızda<i class="fa fa-info-circle fa-2x"></i></a>
+							<a class="page-scroll" href="#about">Hakkımızda <i class="fa fa-info-circle "></i></a>
 						</li>
 					
 						<li>
-							<a class="page-scroll" href="#portfolio">Portföy<i class="fa fa-folder fa-2x"></i></a>
+							<a class="page-scroll" href="#portfolio">Projelerimiz <i class="fa fa-folder "></i></a>
 						</li>
 						{{-- <li>
 							<a class="page-scroll" href="#partnerler">Partnerlerimiz<i class="fa fa-building-o fa-2x"></i></a>
 						</li> --}}
 						<li>
-							<a class="page-scroll" href="#team">Takım<i class="fa fa-users fa-2x"></i></a>
+							<a class="page-scroll" href="#help">Yardım <i class="fa fa-question-circle "></i></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#help">Yardım<i class="fa fa-question-circle fa-2x"></i></a>
-						</li>
-						<li>
-							<a class="page-scroll" href="#contact">İletişim<i class="fa fa-phone fa-2x"></i></a>
+							<a class="page-scroll" href="#contact">İletişim <i class="fa fa-phone "></i></a>
 						</li>
 					</ul>
 				</div>
@@ -69,14 +66,17 @@
 		</nav>
 		<!-- Header -->
 		<header>
-			<div class="container">
-				<div class="slider-container">
-                    <div class="intro-text">
-						
-                        <div class="intro-lead-in">Agentemize hoşgeldiniz</div>
-						<div class="intro-heading">Sizinle tanışmak güzel</div>
-						<a href="#about" class="page-scroll btn btn-xl">Dahası</a>
-
+			<div class="slider-bg">
+				<div class="container">
+					<div class="slider-container">
+						<div class="intro-text">
+							
+								<div class="intro-lead-in">Agentemize hoşgeldiniz</div>
+								<div class="intro-heading">Sizinle tanışmak güzel</div>
+								<br>
+							
+								<a href="#about" class="page-scroll btn btn-xl">Dahası</a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -88,32 +88,32 @@
 						<div class="row">
 							<div class="section-title">
 									<button class="collapsible ">HAKKIMIZDA</button>
-										<div class="content">
+										
 											<p><strong>Zaman kavramının çok önemli hale geldiği günümüzde, Kurutravel.com ailesi olarak bilet satın alırken yaşadığınız zorlukları gidermek
 												 ve sizlere en hızlı,en güvenli ve en ucuz bilet deneyimini sunmak için yola çıktık. Zaman ve ayrıntı gerektiren bir işlem olan bilet satın 
 												 alma işlemini sizler için oldukça kolay ve güvenli bir hale getirdik.Mutlak müşteri memnuniyetini temel prensip kabul eden Kurutravel ,bunun 
 												 için sizlere en çok firma arasında dilediğiniz seçimi yapma ve en ucuz bileti, en hızlı ve en güvenli şekilde alma imkanını sunar.Biletlerinizi 
 												 sitemizi ziyaret edip online olarak veya ALO 0332 248 8448 numaralı çağrı merkezimizi arayarak müşteri temsilcilerimiz aracılığı ile kolayca satın 
 												 alabilirsiniz.Kurutravel.com 3-D security(3-d güvenlik doğrulama) sistemini kullanarak kullanıcı güvenliğini en üst seviyede tutar.</strong></p>
-										</div>
+										
 							</div>
 							<div class="section-title">
 								<button class="collapsible ">MİSYONUMUZ</button>
-									<div class="content">
+									
 										<p><strong>Mutlak Müşteri Memnuniyeti' ilkesini hem çıkış hem de varış noktası kabul ederek müşterilerimize en iyi hizmeti sunmak.Bir ekip ruhu anlayışı 
 												içinde insanı temel alan,çözüme odaklı ve sistematik çalışma anlayışımızı sürekli geliştirmek.'Değişmeyen tek şey değişimin kendisidir.' sözünden 
 												hareketle sürekli hale getirdiğimiz hizmetiçi seminerlerimiz sayesinde kurutravel.com ailesi olarak yenilikleri takip etmek ve tüm bu yenilikleri
 												bir ekip ruhu anlayışı içinde müşterilerimizin işini kolaylaştıracak birer hizmet olarak sunmak.Mükemmelliği bir amaç olarak görüp, verdiğimiz 
 												hizmette en mükemmeli yakalama çabası içerisinde olmak. Yerelliği aşıp evrensel seviyede sürdürdüğümüz rekabet anlayışımızı, gelişimsel ve 
 												yenilikçi adımlarla sürekli destekleyerek en üst seviyede tutmak.</strong></p>
-									</div>
+									
 							</div>
 							<div class="section-title">		
 								<button class="collapsible ">VİZYONUMUZ</button>
-									<div class="content">
+									
 										<p><strong>Kaliteli hizmet anlayışıyla toplumun ihtiyaçlarına gelişimsel ve yenilikçi bir anlayış içinde hızlı,güvenilir ve ekonomik çözümler üreterek, alanında
 												evrensel anlamda lider bir kurum olmak.</strong></p>
-									</div>
+									
 							</div>			
 						</div>
 					</div>
@@ -237,8 +237,8 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<div class="section-title">
-						<h2>PORTFÖY</h2>
-						<p>Projelerimiz şirketimizi ve kendimizi sizlere tanıtmanın en iyi yoludur</p>
+						<h2>PROJELERİMİZ</h2>
+						<p>Üzerinde çalışmakda olduğumuz projeler</p>
 					</div>
 				</div>
 			</div>
@@ -251,7 +251,7 @@
 							<figcaption>
 								<h2>E-TİCARET</h2>
 								<p>Oğuzhan , Leyla</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-7">View more</a>
+								
 							</figcaption>
 						</figure>
 					</div>
@@ -265,7 +265,7 @@
 							<figcaption>
 								<h2>GTC</h2>
 								<p>Pike, Muhammet</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-8">View more</a>
+								
 							</figcaption>
 						</figure>
 					</div>
@@ -279,7 +279,7 @@
 							<figcaption>
 								<h2>AMADEUS</h2>
 								<p>Pike,Muhammet,Mustafa,Ömer,Leyla,Oğuzhan</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-9">View more</a>
+								
 							</figcaption>
 						</figure>
 					</div>
@@ -326,140 +326,7 @@
 		</section> --}}
 		
 			  
-		<section id="team" class="light-bg">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-12 text-center">
-						<div class="section-title">
-							<h2>Takımımız</h2>
-							<p>Kuruluşunun ilk yıllarında olmasına rağmen gereken en iyi hizmeti vermek için herşeyi yapan takımımız</p>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<!-- team member item -->
-					<div class="col-md-3">
-							<div class="team-item">
-							<div class="team-image">
-								<img src="lattes-template/images/demo/takım.jpg" class="img-responsive" alt="author">
-							</div>
-							<div class="team-text">
-								<h3>MEHMET KURU</h3>
-								<div class="team-location">Adana</div>
-								<div class="team-position">CEO</div>
-								<p>KURUCU BAŞKAN</p>
-							</div>
-						 </div>
-					</div>
-					<!-- end team member item -->
-					<!-- team member item -->
-					<div class="col-md-3">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="lattes-template/images/demo/takım.jpg" class="img-responsive" alt="author">
-							</div>
-							<div class="team-text">
-								<h3>MUHAMMET</h3>
-								<div class="team-location">Kamerun</div>
-								<div class="team-position">Takım Kaptanı</div>
-								<p>Web geliştirme takım kaptanı</p>
-							</div>
-						</div>
-					</div>
-					<!-- end team member item -->
-					<!-- team member item -->
-					<div class="col-md-3">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="lattes-template/images/demo/takım.jpg" class="img-responsive" alt="author">
-							</div>
-							<div class="team-text">
-								<h3>PIKE MSONDA</h3>
-								<div class="team-location">Malawi</div>
-								<div class="team-position">Takım Yardımcı Kaptanı</div>
-								<p>Web geliştirme yardımcı takım kaptanı</p>
-							</div>
-						</div>
-					</div>
-					<!-- end team member item -->
-					<!-- team member item -->
-					<div class="col-md-3">
-						<div class="team-item">
-							<div class="team-image">
-								<img src="lattes-template/images/demo/takım.jpg" class="img-responsive" alt="author">
-							</div>
-							<div class="team-text">
-								<h3>OĞUZHAN  ATASEVER</h3>
-								<div class="team-location">Adana</div>
-								<div class="team-position">Mobile</div>
-								<p>İonic hibrit mobil uygulama uzmanı</p>
-							</div>
-						</div>
-					</div>
-                    <!-- end team member item -->
-                    <!-- team member item -->
-					<div class="col-md-3">
-                            <div class="team-item">
-                            <div class="team-image">
-                                <img src="lattes-template/images/demo/takım.jpg" class="img-responsive" alt="author">
-                            </div>
-                            <div class="team-text">
-                                <h3>LEYLA YILMAZ</h3>
-                                <div class="team-location">Konya</div>
-                                <div class="team-position">Front-End</div>
-                                <p>Front-end</p>
-                            </div>
-                         </div>
-                    </div>
-                    <!-- end team member item -->
-                    <!-- team member item -->
-					<div class="col-md-3">
-                            <div class="team-item">
-                            <div class="team-image">
-                                <img src="lattes-template/images/demo/takım.jpg" class="img-responsive" alt="author">
-                            </div>
-                            <div class="team-text">
-                                <h3>MUSTAFA AKDOĞAN</h3>
-                                <div class="team-location">Konya</div>
-                                <div class="team-position">Back-End</div>
-                                <p>Back-end</p>
-                            </div>
-                         </div>
-                    </div>
-                    <!-- end team member item -->
-                    <!-- team member item -->
-					<div class="col-md-3">
-                            <div class="team-item">
-                                <div class="team-image">
-                                    <img src="lattes-template/images/demo/takım.jpg" class="img-responsive" alt="author">
-                                </div>
-                                <div class="team-text">
-                                    <h3>ÖMER ZİEMKE</h3>
-                                    <div class="team-location">Almanya</div>
-                                    <div class="team-position">Stajyer</div>
-                                    <p>Full stack bilgisayar mühendisi</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end team member item -->
-                    <!-- team member item -->
-					<div class="col-md-3">
-                            <div class="team-item">
-                            <div class="team-image">
-                                <img src="lattes-template/images/demo/takım.jpg" class="img-responsive" alt="author">
-                            </div>
-                            <div class="team-text">
-                                <h3>ALEYNA ÇOKKAÇ</h3>
-                                <div class="team-location">Konya</div>
-                                <div class="team-position">Design</div>
-                                <p>Tasarım Uzmanı</p>
-                            </div>
-                         </div>
-                    </div>
-					<!-- end team member item -->
-				</div>
-			</div>
-		</section>
+		
 		 <section id=help>
 			
 				<div class="ot-portfolio-item">
@@ -709,65 +576,9 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal for portfolio item 6 -->
-		<div class="modal fade" id="Modal-7" tabindex="-1" role="dialog" aria-labelledby="Modal-label-7">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h4 class="modal-title" id="Modal-label-7"><strong>E-ticaret</strong></h4>
-                        </div>
-                        <div class="modal-body">
-                            <img src="lattes-template/images/demo/e-ticaret.jpeg" alt="img06" class="img-responsive" />
-                            <div class="modal-works"></div>
-                            <p>Şirketimiz tarafından en uygun standartlarda bir e-ticaret sitesi</p>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Modal for portfolio item 6 -->
-		<div class="modal fade" id="Modal-8" tabindex="-1" role="dialog" aria-labelledby="Modal-label-8">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h4 class="modal-title" id="Modal-label-8"><strong>Gtc</strong></h4>
-                        </div>
-                        <div class="modal-body">
-                            <img src="lattes-template/images/demo/gtc.png" alt="img06" class="img-responsive" />
-                            <div class="modal-works"></div>
-                            <p>Şirketimiz tarafından gtc şirketinden sağlanan apı ile size en uygun uçuşları sunmak</p>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Modal for portfolio item 6 -->
-		<div class="modal fade" id="Modal-9" tabindex="-1" role="dialog" aria-labelledby="Modal-label-9">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h4 class="modal-title" id="Modal-label-9"><strong>Amadeus</strong></h4>
-                        </div>
-                        <div class="modal-body">
-                            <img src="lattes-template/images/demo/code.jpg" alt="img06" class="img-responsive" />
-                            <div class="modal-works"></div>
-                            
-                            <p>Şirketimiz tarafından amadeus şirketinden sağlanan apı ile size en uygun uçuşları sunmak</p>
-                            
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-			</div>
+            
+            
+           
 
 		<!-- Bootstrap core JavaScript
 			================================================== -->
