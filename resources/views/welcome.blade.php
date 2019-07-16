@@ -295,7 +295,9 @@
 						
 						<figcaption>
 							<a href="#" data-toggle="modal" data-target="#Modal-6">View more</a>
-							<h1 style="color:cornsilk"><strong>NEDEN KURUTRAVEL</strong></h1>
+								<div class="text-size">
+									<h2><strong>NEDEN KURUTRAVEL</strong></h2>
+								</div>
 						</figcaption>
 					</figure>
 				</div>
