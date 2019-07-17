@@ -351,7 +351,7 @@ margin: 0;
 --------------------*/
 
 figure {
-	position: relative;
+	position: absolute;
     overflow: hidden;
     margin: 10px 1%;
     background: #726FB9;
