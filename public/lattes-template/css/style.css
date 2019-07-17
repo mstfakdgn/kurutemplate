@@ -351,12 +351,13 @@ margin: 0;
 --------------------*/
 
 figure {
-	position: absolute;
+	position: relative;
     overflow: hidden;
-    margin: 10px 1%;
+    /* margin: 10px 1%; */
     background: #726FB9;
     text-align: center;
-    cursor: pointer;	
+    cursor: pointer;
+    	
 }
 
 figcaption {
@@ -364,7 +365,8 @@ figcaption {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;	
+    height: 100%;
+    	
 }
 
 .ot-portfolio-item figure figcaption > a {
@@ -380,12 +382,13 @@ figcaption {
     left: 0;
     width: 100%;
     height: 100%;
+    
 }
 
 figure.effect-bubba {
     position: relative;
     background: #000;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     
     
 }
