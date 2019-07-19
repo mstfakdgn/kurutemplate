@@ -34,7 +34,7 @@
 					
 					<span class="sr-only">Toggle navigation</span>
 					
-					<a class="navbar-brand page-scroll" href="#page-top"><img class="image" src="lattes-template/images/logo1.jpeg" alt="Lattes theme logo"></a>
+					<a class="navbar-brand page-scroll" href="#page-top"><img class="image" src="lattes-template/images/logo3.jpg" alt="Lattes theme logo"></a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -329,17 +329,18 @@
 						
 					</div>
 					<div class="col-md-6">
-						<form name="sentMessage" id="contactForm" novalidate="">
+					<form role="form" method="post" name="sentMessage" id="contactForm" action="{{ route('sender') }}">
+						{{ csrf_field() }}	
 							<div class="row">
 								<div class="col-md-6">
 									<div class="form-group">
-										<input type="text" class="form-control" placeholder="İsminiz *" id="name" required="" data-validation-required-message="Please enter your name.">
+										<input type="text" class="form-control" placeholder="İsminiz *"  id="name" name="name" data-validation-required-message="İsminizi giriniz">
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Mailiniz *" id="email" required="" data-validation-required-message="Please enter your email address.">
+										<input type="email" class="form-control" placeholder="Mailiniz *"  id="email" name="email" data-validation-required-message="Mail adresinizi giriniz">
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
@@ -347,7 +348,7 @@
 							<div class="row">
 								<div class="col-md-12">
 									<div class="form-group">
-										<textarea class="form-control" placeholder="Mesajınız *" id="message" required="" data-validation-required-message="Please enter a message."></textarea>
+										<textarea class="form-control" placeholder="Mesajınız *" id="message" name="message" data-validation-required-message="Mesajınızı giriniz"></textarea>
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
@@ -356,7 +357,7 @@
 							<div class="row">
 								<div class="col-lg-12 text-center">
 									<div id="success"></div>
-									<button type="submit" class="btn">Mesaj Gönder</button>
+								<button type="submit" class="btn">Mesaj Gönder</button>
 								</div>
 							</div>
 						</form>

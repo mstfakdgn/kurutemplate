@@ -155,7 +155,7 @@ section {
 		border-radius: 3px
 	}
 	.navbar-default.navbar-shrink {
-		background-color: #222;
+		background-color: rgb(68, 68, 68);
 		padding: 10px 0
 	}
 	.navbar-default.navbar-shrink .navbar-brand {
