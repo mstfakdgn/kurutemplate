@@ -43,17 +43,17 @@
 							<a href="#page-top"></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#about">Hakkımızda <i class="fa fa-info-circle "></i></a>
+							<a class="page-scroll" href="#about">HAKKIMIZDA <i class="fa fa-info-circle "></i></a>
 						</li>
 					
 						<li>
-							<a class="page-scroll" href="#portfolio">Projelerimiz <i class="fa fa-folder "></i></a>
+							<a class="page-scroll" href="#portfolio">PROJELERİMİZ <i class="fa fa-folder "></i></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#help">Yardım <i class="fa fa-question-circle "></i></a>
+							<a class="page-scroll" href="#help">YARDIM <i class="fa fa-question-circle "></i></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#contact">İletişim <i class="fa fa-phone "></i></a>
+							<a class="page-scroll" href="#contact">İLETİŞİM <i class="fa fa-phone "></i></a>
 						</li>
 					</ul>
 				</div>
