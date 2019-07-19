@@ -37,6 +37,7 @@ class SendEmailController extends Controller
             
                 $request->session()->flush();  
                 return redirect('welcome')->with('error', Lang::get('index.email_not_sent'));
+               
                 
             }else{
                 
