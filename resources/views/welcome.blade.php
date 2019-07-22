@@ -356,8 +356,8 @@
 							</div>
 							<div class="row">
 								<div class="col-lg-12 text-center">
-									<div id="success"><button type="submit" class="btn">Mesaj Gönder</button></div>
-								
+									<div id="success"></div>
+									<button type="submit" class="btn">Mesaj Gönder</button>
 								</div>
 							</div>
 						</form>

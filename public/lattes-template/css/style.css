@@ -138,7 +138,7 @@ section {
 @media (min-width:768px) {
 	.navbar-default
 	{
-		background-color: transparent;
+		background-color: rgb(68, 68, 68);
 		padding: 25px 0;
 		-webkit-transition:padding .3s;
 		-moz-transition:padding .3s;

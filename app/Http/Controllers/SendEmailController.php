@@ -11,22 +11,27 @@ class SendEmailController extends Controller
 {
     public function sendMail(EmailValidationRequest $request) {
       
-        $message = $request->message;
-        $name = $request->name;
-        $email= $request->email;
+        if( ($request->message) && ($request->name) && ($request->email) ){
+            $message = $request->message;
+            $name = $request->name;
+            $email= $request->email;
 
 
-        Mail::send('test', ['name' => $name, 'email' => $email,'message1'=>$message], function ($message) {
+            Mail::send('test', ['name' => $name, 'email' => $email,'message1'=>$message], function ($message){
 
-            $message->to('mustafa.akiler@gmail.com');
-        });
+                $message->to('mustafa.akiler@gmail.com');
+            });
 
 
-        if(count(Mail::failures()) > 0){
-            
+            if(count(Mail::failures()) > 0){
+                
+            }else{
+                return redirect('/');
+            }
         }else{
-            return redirect('/');
-        }    
+            return redirect()->back()->withErrors('message', 'Bütün alanları doldurunuz.');
+            dd('doldur lan');
+        }        
     }
 }  
 
