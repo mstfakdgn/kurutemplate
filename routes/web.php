@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 })->name('home');
 
-Route::post('email-sent','SendEmailController@sendEmail')->name('sender');
+Route::post('email-sent','SendEmailController@sendMail')->name('sender');
