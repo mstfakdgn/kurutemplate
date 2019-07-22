@@ -10,12 +10,7 @@ class SendEmailController extends Controller
 {
     public function sendEmail(Request $request){
 
-        $this->validate($request,[
-            'name'=>'required',
-            'email'=>'required',
-            'message'=>'required',
-            
-          ]);
+
     
 
         $data = array(
@@ -24,8 +19,9 @@ class SendEmailController extends Controller
             'message'  => $request->message
            );
            
-      Mail::send(['text'=>'welcome'],$data, function($message) use ($data) {
-                        $message->from( $data['email'] );
+      Mail::send('email',$data, function($message) use ($data) {
+                        
+                        $message->from( $data['email'],$data['name'] );
                         $message->to('mohamednjikam25@hotmail.com');
                         
                         
@@ -36,17 +32,19 @@ class SendEmailController extends Controller
             if( count(Mail::failures()) > 0 ){
             
                 $request->session()->flush();  
-                return redirect('welcome')->with('error', Lang::get('index.email_not_sent'));
+                dd('didn t sent' );
                
                 
             }else{
                 
                 $request->session()->flush();
                
-                return redirect('welcome')->with('success', Lang::get('index.email_sent'));
+                dd('sent');
                 
             }
 
      
     }
+
+    
 }
