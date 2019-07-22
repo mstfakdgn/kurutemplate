@@ -5,9 +5,8 @@
     	</head>
     	<body>
             <h2>Test Email</h2>
-            <label>Kimden:{{ $name }} </label>
-            <label>Mesaj: {{ $message1 }}</label>
-        <label>Gönderenin Maili: {{ $email }}</label> 
-             
+            <label><strong>Kimden:</strong>{{ $name }} </label>
+            <label><strong>Gönderenin Maili: {{ $email }}</strong></label><br>
+            <label><strong>Mesaj: </strong>{{ $message1 }}</label> 
     	</body>
     </html>
