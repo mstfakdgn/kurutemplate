@@ -4,24 +4,13 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
+use App\Http\Requests\EmailValidationRequest;
 
 
 class SendEmailController extends Controller
 {
-    public function sendMail(Request $request) {
-        // $this->validate($request,[
-        //     'message'=>'required',
-        //     'name'=>'required',
-        //     'email'=>'required',
-
-        // ]);
-        $request->validate([
-            'message'=>'required',
-            'name' => 'required',
-            'email' => 'required',
-        ]);
-        
-
+    public function sendMail(EmailValidationRequest $request) {
+      
         $message = $request->message;
         $name = $request->name;
         $email= $request->email;

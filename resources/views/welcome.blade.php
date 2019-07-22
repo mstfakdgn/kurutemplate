@@ -334,13 +334,13 @@
 							<div class="row">
 								<div class="col-md-6">
 									<div class="form-group">
-										<input type="text" class="form-control" placeholder="İsminiz *"  id="nameid" name="name">
+										<input type="text" class="form-control" data-validation-required-message="Adınızı giriniz." placeholder="İsminiz *"  id="nameid" name="name">
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Mailiniz *"  id="emailid" name="email">
+										<input type="email" class="form-control" data-validation-required-message="Mailinizi giriniz." placeholder="Mailiniz *"  id="emailid" name="email">
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
@@ -348,7 +348,7 @@
 							<div class="row">
 								<div class="col-md-12">
 									<div class="form-group">
-										<textarea class="form-control" placeholder="Mesajınız *" id="messageid" name="message"></textarea>
+										<textarea class="form-control" data-validation-required-message="Mesajınızı giriniz." placeholder="Mesajınız *" id="messageid" name="message"></textarea>
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
