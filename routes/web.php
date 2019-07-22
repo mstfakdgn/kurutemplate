@@ -16,3 +16,7 @@ Route::get('/', function () {
 })->name('home');
 
 Route::post('email-sent','SendEmailController@sendMail')->name('sender');
+
+Route::get('error',function(){
+    return view('error')->name('error');
+});
