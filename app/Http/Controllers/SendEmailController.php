@@ -10,19 +10,14 @@ use App\Http\Requests\EmailValidationRequest;
 class SendEmailController extends Controller
 {
     public function sendMail(EmailValidationRequest $request) {
-                      
         $message = $request->message;
         $name = $request->name;
         $email= $request->email;
-
+        
         Mail::send('test', ['name' => $name, 'email' => $email,'message1'=>$message], function ($message){
-            $message->to('mustafa.akiler@gmail.com');
+                $message->to('mohamednjikam25@hotmail.com');
         });
-        if(count(Mail::failures()) > 0){
-            return redirect('/')->with('error');    
-        }else{
-            return redirect('/')->with('success');
-        }     
+        return redirect('/');
     }
 }  
 
