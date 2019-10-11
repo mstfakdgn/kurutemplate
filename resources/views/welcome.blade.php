@@ -372,8 +372,6 @@
 		
 
 		
-
-		
         <!-- Modal for portfolio item 6 -->
 		<div class="modal fade" id="Modal-6" tabindex="-1" role="dialog" aria-labelledby="Modal-label-6">
                 <div class="modal-dialog" role="document">
